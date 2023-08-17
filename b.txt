@@ -3,3 +3,5 @@ Bajo is my name
 I will always be Bajo
 
 I will appear again
+
+soft delete
