@@ -42,3 +42,9 @@ sed 's/hello/world' file.txt > output.txt
 sudo sed 's/hello/world' file.txt > output.txt
 su -
 sudo su 
+sudo su
+ls
+./banking.sh
+cat banking.sh 
+vi banking.sh 
+./banking.sh
