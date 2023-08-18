@@ -31,7 +31,7 @@ deposit() {
 }
 
 # Main program starts here
-echo "Welcome to Bash Bank!"
+echo "Welcome to LogaXP Bash Bank!"
 
 while true; do
     echo ""
